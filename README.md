@@ -1,4 +1,4 @@
-<img width="600" height="300" align="center" src="C:\Users\joanes.cavalcanti\OneDrive - Accenture\Documents\Quarkus\quarkus-student-test-main\src\main\resources\META-INF\resources\CLASS_TEST_QUARKUS.png">
+<img width="600" height="300" align="center" src="https://github.com/JoanesAraujo/quarkus-student-test-main/blob/master/src/main/resources/META-INF/resources/CLASS_TEST_QUARKUS.png?raw=true">
 
 
 # quarkus-student-test-main Project
