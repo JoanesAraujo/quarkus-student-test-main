@@ -1,3 +1,6 @@
+<img width="600" height="300" align="center" src="C:\Users\joanes.cavalcanti\OneDrive - Accenture\Documents\Quarkus\quarkus-student-test-main\src\main\resources\META-INF\resources\CLASS_TEST_QUARKUS.png">
+
+
 # quarkus-student-test-main Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
